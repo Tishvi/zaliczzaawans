@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServerExam", "ClientServerExam\ClientServerExam.csproj", "{A4823BB4-B9EF-4C03-A648-B3CC72C7A4F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{32BA72E6-6C1D-4743-A58F-ED021E40CCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{88C32660-77AA-484D-BDBF-7575325B1855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{F7AC4734-FED9-45EF-9F83-982AACEF43D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4823BB4-B9EF-4C03-A648-B3CC72C7A4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4823BB4-B9EF-4C03-A648-B3CC72C7A4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4823BB4-B9EF-4C03-A648-B3CC72C7A4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4823BB4-B9EF-4C03-A648-B3CC72C7A4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BA72E6-6C1D-4743-A58F-ED021E40CCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BA72E6-6C1D-4743-A58F-ED021E40CCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BA72E6-6C1D-4743-A58F-ED021E40CCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BA72E6-6C1D-4743-A58F-ED021E40CCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C32660-77AA-484D-BDBF-7575325B1855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C32660-77AA-484D-BDBF-7575325B1855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C32660-77AA-484D-BDBF-7575325B1855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C32660-77AA-484D-BDBF-7575325B1855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AC4734-FED9-45EF-9F83-982AACEF43D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AC4734-FED9-45EF-9F83-982AACEF43D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AC4734-FED9-45EF-9F83-982AACEF43D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AC4734-FED9-45EF-9F83-982AACEF43D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
